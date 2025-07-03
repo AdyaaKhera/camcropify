@@ -10,7 +10,7 @@
 
 ## Preview
 
-- [Watch the demo using Google Drive](https://drive.google.com/your-demo-link(https://drive.google.com/file/d/1Jm1aZIds0n5Cn-2FgqszyNpmgNMDsOgx/view?usp=share_link)
+- [Watch the demo using Google Drive](https://drive.google.com/file/d/1Jm1aZIds0n5Cn-2FgqszyNpmgNMDsOgx/view?usp=share_link))
 
 The video shows:
 - Real-time face detection
