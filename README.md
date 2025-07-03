@@ -7,3 +7,9 @@
 - Real-time face detection using Haar cascades
 - Automatically crops and saves detected faces
 - Works with webcam or pre-recorded video (make sure it reads "video.mp4")
+
+## Preview
+
+- Here's CamCropify in action:
+
+![Cam Cropify Demo](working_code.gif)
