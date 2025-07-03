@@ -1,6 +1,6 @@
 # CamCropify - Theft Detection System
 
--> An AI-powered face detection system designed for theft prevention. 
+-> An AI-powered face detection system designed for theft prevention. <br></br>
 -> Uses OpenCV to detect human faces from a live camera feed or video footage and stores cropped face images of potential suspects.
 
 ## Features
